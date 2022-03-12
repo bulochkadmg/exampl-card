@@ -110,6 +110,15 @@ img {
 	border-bottom: 2px solid #00e9ba;
 	background-color: #fff;
 	box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 999;
+}
+
+#main {
+	padding-top: 87px;
 }
 
 .header-nav {
